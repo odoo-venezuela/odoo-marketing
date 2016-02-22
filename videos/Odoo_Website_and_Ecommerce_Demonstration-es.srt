@@ -79,11 +79,11 @@ Mi sitio Web de comercio electrónico Odoo está completamente integrado con ser
 
 18
 00:01:25,960 --> 00:01:31,460
-cualquier nueva orden crea automáticamente una orden de entrega, además de que puede decirle de mis
+cualquier nueva orden crea automáticamente una orden de entrega, además de que puede vender de mis
 
 19
 00:01:31,460 --> 00:01:37,530
-productos y publicarlos en Amazon y eBay, eso es
+productos y publicarlos en Amazon y eBay, también eso es
 una combinación increíble de mi cuenta Odoo!!!
 
 20

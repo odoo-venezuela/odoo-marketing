@@ -56,7 +56,7 @@ hacer es añadir un formulario de contacto en su página Web, los mensajes entra
 
 15
 00:01:14,380 --> 00:01:21,020
-son recibidos como Leeds oh no hacen ventas se ven aquí puedo crear un presupuesto basado en una plantilla
+son recibidos y llega a ventas como un 'lead', yo puedo crear un presupuesto basado en una plantilla
 
 16
 00:01:21,020 --> 00:01:26,729

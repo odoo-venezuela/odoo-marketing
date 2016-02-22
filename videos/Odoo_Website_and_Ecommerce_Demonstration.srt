@@ -83,11 +83,11 @@ integrated with shipping services
 18
 00:01:25,960 --> 00:01:31,460
 any new order creates a delivery order
-automatically plus I can tell my
+automatically plus I can sell my
 
 19
 00:01:31,460 --> 00:01:37,530
-products on Amazon and eBay that's
+products on Amazon and eBay too that's
 amazing straight from my Odoo account
 
 20
