@@ -33,11 +33,11 @@ de marketing, Yo estoy impresionado de lo fácil que es
 8
 00:00:35,610 --> 00:00:40,390
 atraer visitantes de la Web a mi sitio Web tiene un
-mejor posicionamiento en los motores de búsqueda gracias
+mejor posicionamiento en los motores de búsqueda
 
 9
 00:00:40,390 --> 00:00:46,620
-a la optimización de motores de búsqueda, Yo tengo
+gracias a la optimización de motores de búsqueda, Yo tengo
 un sitio Web de comercio electrónico moderno para mi
 
 10
@@ -83,8 +83,7 @@ cualquier nueva orden crea automáticamente una orden de entrega, además de que
 
 19
 00:01:31,460 --> 00:01:37,530
-productos y publicarlos en Amazon y eBay, también eso es
-una combinación increíble de mi cuenta Odoo!!!
+productos y publicarlos en Amazon y eBay, también eso es una combinación increíble de mi cuenta Odoo!!!
 
 20
 00:01:37,530 --> 00:01:43,100
