@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,550 --> 00:00:05,160
 In a growing company you soon outgrow
 technology integrating different
@@ -31,12 +31,12 @@ system for all my company's aspects in
 just one click
 
 8
-00:00:31,599 --> 00:00:37,59
+00:00:31,599 --> 00:00:37,059
 I install my first at Odoo website, I can
 create a professional website without
 
 9
-00:00:37,59 --> 00:00:44,709
+00:00:37,059 --> 00:00:44,709
 any technical knowledge that's so simple
 I just drag-and-drop building blocks
 
@@ -66,12 +66,12 @@ do is add a contact form on my website
 incoming messages from the website
 
 15
-00:01:14,380 --> 00:01:21,20
+00:01:14,380 --> 00:01:21,020
 land as Leeds oh no do sales look here I
 create a quotation based on a predefined
 
 16
-00:01:21,20 --> 00:01:26,729
+00:01:21,020 --> 00:01:26,729
 template easy right for my customers to
 no need to print sign and scan the offer
 
@@ -118,11 +118,11 @@ produce sales and inventory from a
 25
 00:02:10,820 --> 00:02:16,510
 single screen I can easily create an
-invoice based on the sales order I
+invoice based on the sales order
 
 26
 00:02:16,510 --> 00:02:20,560
-usually nurture my existing and
+I usually nurture my existing and
 potential clients by sending a weekly
 
 27
@@ -137,7 +137,7 @@ blocks
 29
 00:02:26,290 --> 00:02:31,310
 I don't need to worry about anything
-else than my design days I can manage
+else than my design tastes, I can manage
 
 30
 00:02:31,310 --> 00:02:36,290
@@ -146,12 +146,12 @@ the after sales service and help desk
 
 31
 00:02:36,290 --> 00:02:43,828
-are handled from 0 to project where any
-issue is tracked and salt as my company
+are handled for Odoo project where any
+issue is tracked and solved as my company
 
 32
 00:02:43,829 --> 00:02:49,480
-rose I can't even use 02 to hire more
+growth I can even use Odoo to hire more
 people and collaborate with them easily
 
 33
@@ -167,7 +167,7 @@ together
 35
 00:03:00,300 --> 00:03:04,430
 running my business has never been so
-simple dark now and growing your
+start now to growth your
 
 36
 00:03:04,430 --> 00:03:05,760

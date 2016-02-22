@@ -1,15 +1,15 @@
-1
+﻿1
 00:00:00,000 --> 00:00:05,570
 It's easy to create beautiful and
 professional Websites with Odoo
 
 2
-00:00:05,570 --> 00:00:12,80
+00:00:05,570 --> 00:00:12,080
 First I selected a theme from the Odoo
 feed store then with a simple
 
 3
-00:00:12,80 --> 00:00:17,640
+00:00:12,080 --> 00:00:17,640
 drag-and-drop, I create a stunning
 Website and all of that without the
 
@@ -59,35 +59,35 @@ also cross selling features to suggest
 13
 00:01:01,949 --> 00:01:08,119
 accessories or all options for any
-product sold thanks Oddo I create a
+product sold thanks Oddo, I create a
 
 14
-00:01:08,119 --> 00:01:13,30
+00:01:08,119 --> 00:01:13,030
 successful online store in minutes with
 an enlightening experience for my Web
 
 15
-00:01:13,30 --> 00:01:18,439
+00:01:13,030 --> 00:01:18,439
 designers making it easy prevent to
-purchase online from anywhere really
+purchase online from anywhere
 
 16
 00:01:18,439 --> 00:01:20,830
-anywhere
+really anywhere!!!
 
 17
 00:01:20,830 --> 00:01:25,960
-Odoo to e-commerce Website is fully
-integrated with shipping services any
+My Odoo e-commerce Website is fully
+integrated with shipping services
 
 18
 00:01:25,960 --> 00:01:31,460
-new order creates a delivery order
-automatically plus I can tell my
+any new order creates a delivery order
+automatically plus I can sell my
 
 19
 00:01:31,460 --> 00:01:37,530
-products on Amazon and eBay to matts
+products on Amazon and eBay too that's
 amazing straight from my Odoo account
 
 20
