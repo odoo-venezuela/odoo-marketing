@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:00,550 --> 00:00:05,160
 In a growing company you soon outgrow
 technology integrating different
@@ -31,12 +31,12 @@ system for all my company's aspects in
 just one click
 
 8
-00:00:31,599 --> 00:00:37,59
+00:00:31,599 --> 00:00:37,059
 I install my first at Odoo website, I can
 create a professional website without
 
 9
-00:00:37,59 --> 00:00:44,709
+00:00:37,059 --> 00:00:44,709
 any technical knowledge that's so simple
 I just drag-and-drop building blocks
 
@@ -66,12 +66,12 @@ do is add a contact form on my website
 incoming messages from the website
 
 15
-00:01:14,380 --> 00:01:21,20
+00:01:14,380 --> 00:01:21,020
 land as Leeds oh no do sales look here I
 create a quotation based on a predefined
 
 16
-00:01:21,20 --> 00:01:26,729
+00:01:21,020 --> 00:01:26,729
 template easy right for my customers to
 no need to print sign and scan the offer
 
@@ -118,11 +118,11 @@ produce sales and inventory from a
 25
 00:02:10,820 --> 00:02:16,510
 single screen I can easily create an
-invoice based on the sales order I
+invoice based on the sales order
 
 26
 00:02:16,510 --> 00:02:20,560
-usually nurture my existing and
+I usually nurture my existing and
 potential clients by sending a weekly
 
 27
