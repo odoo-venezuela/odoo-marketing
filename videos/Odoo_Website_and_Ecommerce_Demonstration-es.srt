@@ -11,19 +11,20 @@ de la tienda de Odoo luego con un simple
 3
 00:00:12,080 --> 00:00:17,640
 arrastrar y soltar, Yo creo un sitio Web
-impresionante y todo eso sin la
+impresionante y todo eso sin
 
 4
 00:00:17,640 --> 00:00:20,180
-molestia de un constructor de sitio Web tradicional
+la molestia de un constructor de sitio Web tradicional
 
 5
 00:00:20,180 --> 00:00:23,130
-es increíblemente fluido!!!
+¡Es increíblemente fluido!
 
 6
 00:00:23,130 --> 00:00:28,418
-Además los mis visitantes del sitio Web tienen una experiencia Web ubicua independientemente del dispositivo que
+Además los visitantes de mi sitio Web tienen una experiencia 
+Web ubicua independientemente del dispositivo que
 
 7
 00:00:28,419 --> 00:00:35,610
@@ -32,7 +33,7 @@ de marketing, Yo estoy impresionado de lo fácil que es
 
 8
 00:00:35,610 --> 00:00:40,390
-atraer visitantes de la Web a mi sitio Web tiene un
+atraer visitantes de la Web, mi sitio Web tiene un
 mejor posicionamiento en los motores de búsqueda
 
 9
@@ -66,12 +67,12 @@ con una experiencia enriquecedora para mis diseñadores
 
 15
 00:01:13,030 --> 00:01:18,439
-de páginas web por lo que es fácil prevenir comprar
-en línea desde cualquier lugar
+de páginas Web, por lo que es fácil prevenir comprar
+en línea desde cualquier lugar...
 
 16
 00:01:18,439 --> 00:01:20,830
-realmente en cualquier sitio!!!
+¡Realmente en cualquier sitio!
 
 17
 00:01:20,830 --> 00:01:25,960
@@ -83,13 +84,13 @@ cualquier nueva orden crea automáticamente una orden de entrega, además de que
 
 19
 00:01:31,460 --> 00:01:37,530
-productos y publicarlos en Amazon y eBay, también eso es una combinación increíble de mi cuenta Odoo!!!
+productos y publicarlos en Amazon y eBay, también ¡eso es una combinación increíble de mi cuenta Odoo!
 
 20
 00:01:37,530 --> 00:01:43,100
-Yo puede publicar en estas plataformas de comercio electrónico populares e ir a la página Web y el comercio electrónico
+Yo puede publicar en estas plataformas de comercio electrónico populares, Un sitio Web y comercio electrónico con Odoo
 
 21
 00:01:43,100 --> 00:01:48,710
-son grandiosas y están totalmente integradas con las aplicaciones, entonces inicie la creación un sitio Web impresionante ahora!!!
+son geniales y están totalmente integradas con las aplicaciones, entonces ¡inicie la creación un sitio Web impresionante ahora!
 
